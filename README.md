@@ -7,3 +7,4 @@ and then uses a Convolutional Neural Network (CNN) to recognize the gestures. Th
 recognized gestures are accurately translated into text, facilitating effective communication for
 users. The project was developed using Android Studio with Python and Kotlin on Windows
 10.
+Added Two Files
